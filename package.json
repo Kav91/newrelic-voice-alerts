@@ -1,0 +1,25 @@
+{
+  "name": "newrelic-voice-alerts",
+  "version": "1.0.0",
+  "description": "New Relic Voice Alerts with Serverless",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "newrelic",
+    "sms",
+    "aws",
+    "serverless",
+    "lambda",
+    "amazon",
+    "connect",
+    "api",
+    "gateway"
+  ],
+  "author": "Kavashen Pather",
+  "license": "ISC",
+  "dependencies": {
+    "pino": "^4.16.1"
+  }
+}
