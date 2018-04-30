@@ -3,6 +3,7 @@
 Ensure serverless framework is installed https://serverless.com/.
 
 - Setup Amazon Connect with a basic contact flow that does text to speech with a user defined attribute of message
+- See: https://www.linkedin.com/pulse/new-relic-voice-alerts-amazon-connect-serverless-framework-kav-pather/
 - Update the region within serverless.yml if required
 - Update index.js with numbers and message formatting required
 - Run below:
